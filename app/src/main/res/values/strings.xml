@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CurrencyRatesAndBureauDeChange</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="del">DEL</string>
+    <string name="image_of_base_currency">image of base currency</string>
+    <string name="image_of_currency_to_convert_to">image of currency to convert to</string>
+    <string name="france">France</string>
+    <string name="search_by_country">Search by country</string>
+    <string name="title_activity_central">CentralActivity</string>
+
+
+</resources>

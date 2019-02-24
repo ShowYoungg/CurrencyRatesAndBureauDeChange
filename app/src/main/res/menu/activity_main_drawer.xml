@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/multi_currency"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Multi Currency Converter" />
+        <item
+            android:id="@+id/trend"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Currency Trends and History" />
+    </group>
+
+    <item android:title="Share App and Review">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/review"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Review" />
+        </menu>
+    </item>
+
+</menu>

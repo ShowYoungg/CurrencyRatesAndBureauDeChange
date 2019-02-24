@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.soyinka.soyombo.currencyratesandbureaudechange.MultiCurrency">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/base_currency_flaga"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:contentDescription="@string/image_of_base_currency"
+            android:scaleType="fitXY"
+            android:src="@drawable/usa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/base_edittexta"
+            style="@style/textStyle"
+            android:layout_width="261dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="28dp"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="0"
+            android:textSize="25sp"
+            app:layout_constraintStart_toEndOf="@+id/base_currency_flaga"
+            app:layout_constraintTop_toTopOf="@+id/base_currency_flaga" />
+
+        <ImageView
+            android:id="@+id/convert_to_flag1a"
+            android:layout_width="100dp"
+            android:layout_height="105dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="12dp"
+            android:contentDescription="@string/image_of_base_currency"
+            android:scaleType="fitXY"
+            android:src="@drawable/usa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/base_currency_flaga" />
+
+        <EditText
+            android:id="@+id/convert_edittext1a"
+            style="@style/textStyle"
+            android:layout_width="261dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="28dp"
+            android:layout_weight="1"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_horizontal"
+            android:text="0"
+            android:textSize="25sp"
+            app:layout_constraintStart_toEndOf="@+id/convert_to_flag1a"
+            app:layout_constraintTop_toTopOf="@+id/convert_to_flag1a" />
+
+        <ImageView
+            android:id="@+id/convert_to_flag2"
+            android:layout_width="100dp"
+            android:layout_height="105dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="12dp"
+            android:contentDescription="@string/image_of_base_currency"
+            android:scaleType="fitXY"
+            android:src="@drawable/usa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/convert_to_flag1a" />
+
+        <EditText
+            android:id="@+id/convert_edittext2"
+            style="@style/textStyle"
+            android:layout_width="261dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="28dp"
+            android:layout_weight="1"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_horizontal"
+            android:text="0"
+            android:textSize="25sp"
+            app:layout_constraintStart_toEndOf="@+id/convert_to_flag2"
+            app:layout_constraintTop_toTopOf="@+id/convert_to_flag2" />
+
+        <ImageView
+            android:id="@+id/convert_to_flag3"
+            android:layout_width="100dp"
+            android:layout_height="105dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="12dp"
+            android:contentDescription="@string/image_of_base_currency"
+            android:scaleType="fitXY"
+            android:src="@drawable/usa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/convert_to_flag2" />
+
+        <EditText
+            android:id="@+id/convert_edittext3"
+            style="@style/textStyle"
+            android:layout_width="261dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="28dp"
+            android:layout_weight="1"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_horizontal"
+            android:text="0"
+            android:textSize="25sp"
+            app:layout_constraintStart_toEndOf="@+id/convert_to_flag3"
+            app:layout_constraintTop_toTopOf="@+id/convert_to_flag3" />
+
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>
