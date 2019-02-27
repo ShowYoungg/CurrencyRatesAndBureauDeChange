@@ -1,52 +1,17 @@
 # CurrencyRatesAndBureauDeChange
 This app is a currency rates generator and converter
 
-## Baking App
-Baking App is the fourth project of Udacity [Android Developer Nanodegree Program](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801).
-
 ## Screenshots
 ![Phone](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-24-21-36-00.png)
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-08-07-22-49.png)
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-27-08-57-59.png)
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-27-08-57-21.png)
 
-## Used Libraries
-* [Retrofit 2](https://github.com/square/retrofit) and 
-*[Gson converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson)
-* [Gson](https://github.com/google/gson)
-* [ExoPlayer](https://github.com/google/ExoPlayer)
-
 ## Project Overview
-I did productionize an app, taking it from a no state to a production-ready state. This involves finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
+I did productionize an app, taking it from a no state to a production-ready state. This involves finding and handling error cases, adding accessibility features, allowing for localization
 
 ## Why this Project?
-As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app. Unlike Popular Movies where we gave you an implementation guide, it will be up to you to figure things out for the Baking App.
+As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app.
 
-## What I Learned
-In this project I did:
-* Use RecyclerView inside a RecyclerView
-* Use MediaPlayer/Exoplayer to display videos.
-* Handle error cases in Android.
-* Add a widget to the app experience.
-* Leverage a third-party library in the app.
-* Use Fragments to create a responsive design that works on phones and tablets.
-
-## Rubric
-
-### General App Usage
-- [x] App should display recipes from provided network resource.
-- [x] App should allow navigation between individual recipes and recipe steps.
-- [x] App uses RecyclerView and can handle recipe steps that include videos or images.
-- [x] App conforms to common standards found in the Android Nanodegree General Project Guidelines.
-
-### Components and Libraries
-- [x] Application uses Master Detail Flow to display recipe steps and navigation between them.
-- [x] Application uses Exoplayer to display videos.
-- [x] Application properly initializes and releases video assets when appropriate.
-- [x] Application should properly retrieve media assets from the provided network links. It should properly handle network requests.
-- [x] Application makes use of Espresso to test aspects of the UI.
-- [x] Application sensibly utilizes a third-party library to enhance the app's features. That could be helper library to interface with Content Providers if you choose to store the recipes, a UI binding library to avoid writing findViewById a bunch of times, or something similar.
-
-### Homescreen Widget
-- [x] Application has a companion homescreen widget.
-- [x] Widget displays ingredient list for desired recipe.
+## Google Play Store Listing
+https://play.google.com/store/apps/details?id=com.soyinka.soyombo.currencyratesandbureaudechange
