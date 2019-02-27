@@ -1,6 +1,9 @@
 # CurrencyRatesAndBureauDeChange
 This app is a currency rates generator and converter
 
+## Feature
+× Mukti currency conversion, Share abd Review, Currency Trends and History
+
 ## Screenshots
 ![Phone](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-24-21-36-00.png)
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-08-07-22-49.png)
