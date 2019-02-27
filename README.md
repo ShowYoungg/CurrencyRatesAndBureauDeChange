@@ -7,10 +7,8 @@ Baking App is the fourth project of Udacity [Android Developer Nanodegree Progra
 ## Screenshots
 ![Phone](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-24-21-36-00.png)
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-08-07-22-49.png)
-
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-27-08-57-59.png)
-![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-04-10-10-14.png)![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-04-10-10-30.png)
-![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-03-22-54-54.png)
+![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-27-08-57-21.png)
 
 ## Used Libraries
 * [Retrofit 2](https://github.com/square/retrofit) and 
