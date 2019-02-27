@@ -2,7 +2,7 @@
 This app is a currency rates generator and converter
 
 ## Feature
-× Mukti currency conversion, Share abd Review, Currency Trends and History
+× Multi currency conversion, Share abd Review, Currency Trends and History
 
 ## Screenshots
 ![Phone](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-24-21-36-00.png)
