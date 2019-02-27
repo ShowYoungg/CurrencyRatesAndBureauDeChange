@@ -5,7 +5,7 @@ This app is a currency rates generator and converter
 Baking App is the fourth project of Udacity [Android Developer Nanodegree Program](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801).
 
 ## Screenshots
-![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-04-10-11-02.png)
+![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-08-07-22-49.png)
 ![Phone](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-04-10-11-22.png)
 ![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-03-22-55-13.png)
 ![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-04-10-10-14.png)![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/Screenshot_2018-11-04-10-10-30.png)
