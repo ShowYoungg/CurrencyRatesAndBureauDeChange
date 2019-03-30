@@ -1,8 +1,8 @@
 # CurrencyRatesAndBureauDeChange
-This app is a currency rates generator and converter
+This app is a multi currency rates generator and converter
 
 ## Feature
-× Multi currency conversion, Share abd Review, Currency Trends and History
+× Multi currency conversion, Share and Review, Currency Trends and History on from a third party website via WebView
 
 ## Screenshots
 ![Phone](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-24-21-36-00.png)
