@@ -6,7 +6,6 @@ This app is a multi currency rates generator and converter
 
 ## Screenshots
 ![Phone](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-24-21-36-00.png)
-![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-08-07-22-49.png)
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-27-08-57-59.png)
 ![Screen](https://github.com/ShowYoungg/CurrencyRatesAndBureauDeChange/blob/master/Screenshot_2019-02-27-08-57-21.png)
 
