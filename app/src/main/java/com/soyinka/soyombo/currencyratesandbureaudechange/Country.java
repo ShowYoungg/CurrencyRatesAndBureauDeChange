@@ -8,11 +8,11 @@ public class Country {
     private String mCountryName, mCurrencyName, mCurrencyCode;
     private int mCountryFlag;
 
-    public Country(String countryName, String currencyName, String currencyCode, int countryFlag ){
+    public Country(String countryName, String currencyName, String currencyCode, int flag ){
         this.mCountryName = countryName;
         this.mCurrencyName = currencyName;
         this.mCurrencyCode = currencyCode;
-        this.mCountryFlag = countryFlag;
+        this.mCountryFlag = flag;
     }
 
     public String getCountryName() {
